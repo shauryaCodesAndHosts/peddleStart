@@ -11,5 +11,5 @@ fi
 . env/bin/activate
 export ENV=development
 echo "hello"
-python main.py
+python app.py
 deactivate
