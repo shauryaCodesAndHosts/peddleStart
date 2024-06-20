@@ -26,4 +26,4 @@ api.add_resource(TaskResource, '/tasks/<int:task_id>')
 
 if __name__ == "__main__":
     # app.run(host='0.0.0.0', port='5000')
-    app.run(debug=true)
+    app.run(debug=True)
